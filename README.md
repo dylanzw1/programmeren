@@ -39,6 +39,14 @@
 <img width="1860" height="697" alt="image" src="https://github.com/user-attachments/assets/ca777751-92f3-4527-97be-dc28b850ebb0" />
 <img width="1855" height="784" alt="image" src="https://github.com/user-attachments/assets/020d640c-0b6b-4f68-bc05-9041bbdde1f0" />
 # Les 6
+<img width="1856" height="661" alt="image" src="https://github.com/user-attachments/assets/da3031aa-5cb9-4eed-943d-b7fc96c6136e" />
+<img width="1352" height="408" alt="image" src="https://github.com/user-attachments/assets/17728399-e3ec-4a37-ba11-5da4b53cfe4f" />
+<img width="1271" height="163" alt="image" src="https://github.com/user-attachments/assets/9820c8c6-8d95-4fbb-9e39-960f16776b1a" />
+<img width="910" height="289" alt="image" src="https://github.com/user-attachments/assets/17f9fe0d-ff85-4719-9f2b-be9bbb41dbb4" />
+<img width="1045" height="558" alt="image" src="https://github.com/user-attachments/assets/4a29d3bb-e6b9-4e4b-964c-22723d44ea7f" />
+<img width="1441" height="442" alt="image" src="https://github.com/user-attachments/assets/176f77b4-e317-422e-bbdd-273724fab437" />
+<img width="1855" height="446" alt="image" src="https://github.com/user-attachments/assets/13f29f75-7e4e-4536-848e-9174bde80b58" />
+# Oefentoets
 <img width="830" height="228" alt="image" src="https://github.com/user-attachments/assets/f37447a2-2ece-496a-81ac-d749b3e1b6f7" />
 <img width="1100" height="469" alt="image" src="https://github.com/user-attachments/assets/a875894f-af0e-401f-aef0-58d6939a0c48" />
 <img width="858" height="318" alt="image" src="https://github.com/user-attachments/assets/073f77fb-400c-4189-b078-60336bd6a5e9" />
@@ -51,3 +59,4 @@
 
 
 
+[Les1_Uitwerking.ipynb](https://github.com/user-attachments/files/23502695/Les1_Uitwerking.ipynb)

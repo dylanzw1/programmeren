@@ -60,4 +60,3 @@
 
 
 
-[Les1_Uitwerking.txt](https://github.com/user-attachments/files/23502819/Les1_Uitwerking.txt)

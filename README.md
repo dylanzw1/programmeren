@@ -59,4 +59,5 @@
 
 
 
-[Les1_Uitwerking.ipynb](https://github.com/user-attachments/files/23502695/Les1_Uitwerking.ipynb)
+
+[Les1_Uitwerking.txt](https://github.com/user-attachments/files/23502819/Les1_Uitwerking.txt)
